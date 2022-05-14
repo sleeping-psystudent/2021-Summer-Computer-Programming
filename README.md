@@ -16,7 +16,7 @@
 |期中考|期中考|期中考題目|95/100|
 |Class 7|陣列|[課程七 題目](https://github.com/BoSenGong/109-3-computer-programming/blob/main/exercises/class7.md)|100/100|
 |Class 8|函式|[課程八 題目](https://github.com/BoSenGong/109-3-computer-programming/blob/main/exercises/class8.md)|100/100|
-|Class 9|函式|[課程九 題目](https://github.com/BoSenGong/109-3-computer-programming/blob/main/exercises/class9.md)|100/100|
+|Class 9|函式|[課程九 題目](https://github.com/BoSenGong/109-3-computer-programming/blob/main/exercises/class9.md)|/100|
 |Class 10|程式規劃與函式導向程式設計|[課程十 題目](https://github.com/BoSenGong/109-3-computer-programming/blob/main/exercises/class10.md)|100/100|
 |Class 11|考古題演練及討論|[課程十一 題目](https://github.com/BoSenGong/109-3-computer-programming/blob/main/exercises/class11.md)|50/100|
 |期末考|期末考|期末考題目|98/100|
