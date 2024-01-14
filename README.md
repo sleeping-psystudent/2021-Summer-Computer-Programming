@@ -1,5 +1,4 @@
 # 2021-Summer-Computer-Programming
-
 ## 簡介
 * 課程名稱：[計算機程式設計](https://coursemap.aca.ntu.edu.tw/course_map_all/course.php?code=901+33920)
 * 授課教師：[鄭士康](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901071)
